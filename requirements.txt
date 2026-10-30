@@ -1,0 +1,7 @@
+# MarketMind AI: install with  pip install -r requirements.txt   (Python 3.11-3.13)
+openai==3.41.0
+pydantic==2.13.5
+python-dotenv==1.2.3
+streamlit==1.66.1
+pandas==3.0.5
+altair==6.3.0
